@@ -1,0 +1,17 @@
+HELP.md
+target/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### VS Code ###
+.vscode/
+
+# workstation-local secrets
+*secrets*.*
+
+### Avoid commitment of the private environment variables ###
+/requests/http-client.private.env.json
