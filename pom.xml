@@ -6,7 +6,7 @@
     <artifactId>renovate-does-pause</artifactId>
     <version>1-SNAPSHOT</version>
     <properties>
-        <confluent.version>7.5.1</confluent.version>
+        <confluent.version>5.3.1</confluent.version>
     </properties>
     <dependencies>
         <dependency>
